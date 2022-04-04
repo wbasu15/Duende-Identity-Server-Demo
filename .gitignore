@@ -1,0 +1,9 @@
+.vs
+**/node_modules
+**/.vs
+*.user
+**/obj
+**/bin
+**/applicationhost.config
+*/wwwroot/dist
+**/*.log
